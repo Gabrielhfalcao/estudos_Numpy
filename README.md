@@ -1,5 +1,6 @@
 # studies_Numpy
-Python Numpy library studies using the Google Colab platform
+## Python Numpy library studies using the Google Colab platform
+
 
 Link to the code below:
 
